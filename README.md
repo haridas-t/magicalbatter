@@ -11,11 +11,11 @@
 - Responsive design for better viewing across different devices.
 
 ## 📷 Screenshots
-(You can add screenshots of your website here)
+https://github.com/haridas-t/magicalbatter/blob/main/magicalbatter%20scn.png
 
 ## 🚀 How to Use
 1. Visit the live website (if hosted on GitHub Pages).
 2. Explore the services and offerings.
 3. Contact the owner using the provided details to place an order.
 
-## 📁 Folder Structure
+
